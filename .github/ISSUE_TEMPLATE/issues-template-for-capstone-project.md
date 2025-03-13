@@ -1,6 +1,6 @@
 ---
-name: Issues for capstone
-about: Template
+name: Issues template for capstone project
+about: Issue template
 title: ''
 labels: ''
 assignees: ''
